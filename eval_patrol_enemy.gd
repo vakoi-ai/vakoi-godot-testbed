@@ -49,3 +49,4 @@ func async_charge_attack() -> void:
 	velocity = Vector3.UP * 10.0
 	move_and_slide()
 # scene-grep bench
+# post-godot-skills bench
