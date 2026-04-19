@@ -77,3 +77,4 @@ func take_damage(amount: float) -> void:
 	attack_damage -= amount
 	if attack_damage <= 0.0:
 		queue_free()
+# bump comment to trigger synchronize event
