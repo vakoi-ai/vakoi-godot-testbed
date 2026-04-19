@@ -50,3 +50,4 @@ func async_charge_attack() -> void:
 	move_and_slide()
 # scene-grep bench
 # post-godot-skills bench
+# retrigger v2 with full skill pack
