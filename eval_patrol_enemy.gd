@@ -48,3 +48,4 @@ func async_charge_attack() -> void:
 	await get_tree().create_timer(charge_windup).timeout
 	velocity = Vector3.UP * 10.0
 	move_and_slide()
+# scene-grep bench
