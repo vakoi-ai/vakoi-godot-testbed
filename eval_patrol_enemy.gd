@@ -52,3 +52,4 @@ func async_charge_attack() -> void:
 # post-godot-skills bench
 # retrigger v2 with full skill pack
 # retrigger v3 post-fix
+# measure skills v1
