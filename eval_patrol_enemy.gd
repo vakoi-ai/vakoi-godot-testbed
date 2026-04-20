@@ -53,3 +53,4 @@ func async_charge_attack() -> void:
 # retrigger v2 with full skill pack
 # retrigger v3 post-fix
 # measure skills v1
+# measure v2
