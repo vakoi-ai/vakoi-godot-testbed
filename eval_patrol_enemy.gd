@@ -69,3 +69,5 @@ func async_charge_attack() -> void:
 # retrigger skills v7
 
 # retrigger skills v8
+
+# retrigger skills v9 — all fixes live
