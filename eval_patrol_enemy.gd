@@ -71,3 +71,5 @@ func async_charge_attack() -> void:
 # retrigger skills v8
 
 # retrigger skills v9 — all fixes live
+
+# retrigger skills v10 — inspectPR step
